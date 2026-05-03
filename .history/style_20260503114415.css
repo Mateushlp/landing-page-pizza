@@ -5,7 +5,7 @@
 }
 body{
     background-color: #181818;
-  
+      overflow-x: hidden;
     
 }
 
@@ -122,7 +122,7 @@ color: #e2ae01;
     height: 60vh; 
     display: flex;
     flex-direction: column;
-    justify-content: center; 
+    justify-content: center; /* deixa no meio certinho */
     align-items: center;
     text-align: center;
 }
